@@ -31,7 +31,7 @@ $ npm run build
 
 ### Demo
 
-- https://skyway.github.io/webinar/
+- https://skyway.github.io/webinar-interactive/
 
 ### Requirements
 
@@ -40,8 +40,8 @@ $ npm run build
 
 ### Project management
 
-- [Kanban](https://github.com/skyway/webinar/projects/1)
-- [Issues](https://github.com/skyway/webinar/issues)
+- [Kanban](https://github.com/skyway/webinar-interactive/projects/1)
+- [Issues](https://github.com/skyway/webinar-interactive/issues)
 
 
 ### License
